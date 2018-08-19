@@ -1,0 +1,4 @@
+[
+  "test_reporting_demo.py::TestReportingDemo::()::test_methodA",
+  "test_reporting_demo.py::TestReportingDemo::()::test_methodB"
+]

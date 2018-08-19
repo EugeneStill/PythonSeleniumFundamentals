@@ -1,0 +1,4 @@
+08/13/2018 06:36:14 AM - method3 - INFO: info message
+08/13/2018 06:36:14 AM - method3 - WARNING: warn message
+08/13/2018 06:36:14 AM - method3 - ERROR: error message
+08/13/2018 06:36:14 AM - method3 - CRITICAL: critical message

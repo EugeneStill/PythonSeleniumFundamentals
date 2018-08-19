@@ -1,0 +1,615 @@
+1534028070014	geckodriver	INFO	geckodriver 0.20.1
+1534028070198	geckodriver	INFO	Listening on 127.0.0.1:56328
+1534028072814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.FOSfWxfhYcRo"
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+1534028132806	Marionette	INFO	Listening on port 56336
+1534028134465	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15176, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[Parent 15176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 15176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534028372271	geckodriver	INFO	geckodriver 0.20.1
+1534028372334	geckodriver	INFO	Listening on 127.0.0.1:56502
+1534028375570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.7vR9nkNBM9gt"
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534028393484	Marionette	INFO	Listening on port 56510
+1534028393632	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534028658130	geckodriver	INFO	geckodriver 0.20.1
+1534028658177	geckodriver	INFO	Listening on 127.0.0.1:56691
+1534028661386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.oZV5T7OX1c5u"
+1534028673213	Marionette	INFO	Listening on port 56699
+1534028673830	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534030020761	geckodriver	INFO	geckodriver 0.20.1
+1534030020808	geckodriver	INFO	Listening on 127.0.0.1:49453
+1534030024610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.p2BDKCFVIlPz"
+1534030041575	Marionette	INFO	Listening on port 49483
+1534030042379	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/1.10.2/dist/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.parastorage.com/services/third-party/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534031021719	geckodriver	INFO	geckodriver 0.20.1
+1534031021764	geckodriver	INFO	Listening on 127.0.0.1:50024
+1534031024825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.r483qZetfWxv"
+1534031036487	Marionette	INFO	Listening on port 50032
+1534031036725	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ilure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onCUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534038574977	geckodriver	INFO	geckodriver 0.20.1
+1534038575016	geckodriver	INFO	Listening on 127.0.0.1:51056
+1534038578054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.BJARcMnQVh0U"
+1534038589066	Marionette	INFO	Listening on port 51064
+1534038590045	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534038683083	geckodriver	INFO	geckodriver 0.20.1
+1534038683122	geckodriver	INFO	Listening on 127.0.0.1:51128
+1534038686168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.DmB5ZtDQVETF"
+1534038695771	Marionette	INFO	Listening on port 51136
+1534038696153	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 69: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.expedia.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.expedia.com
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781"  data: no]
+Stack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9
+_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38
+_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12
+_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 781, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: _docShellToWindow :: line 781\"  data: no]\nStack: _docShellToWindow@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:781:9\n_docShellsToWindows/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:38\n_docShellsToWindows@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:805:12\n_notifyDocShellsUpdate@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:809:19\nDebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1664:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 781, column: 0"
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]"  nsresult: "0x80004002 (NS_NOINTERFACE)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667"  data: no]
+Stack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1667, column: 0
+console.error: "Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... \"Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]\"  nsresult: \"0x80004002 (NS_NOINTERFACE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js :: DebuggerProgressListener.prototype.onStateChange< :: line 1667\"  data: no]\nStack: DebuggerProgressListener.prototype.onStateChange<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:1667:9\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1667, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEveJavaScript error: https://suggest.expedia.com/api/v4/typeahead/?callback=cb_1534045776068_0&client=Homepage&siteid=1&guid=86de9fb266c04305867eec403a231227&lob=FLIGHTS&locale=en_US&expuserid=-1&regiontype=95&ab=&dest=true&maxresults=10&features=ta_hierarchy%7Cnearby_airport&originSearchString=SFO&format=jsonp&device=Desktop&browser=Firefox&personalize=true, line 1: ReferenceError: cb_1534045776068_0 is not defined
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534046316599	geckodriver	INFO	geckodriver 0.20.1
+1534046316655	geckodriver	INFO	Listening on 127.0.0.1:53906
+1534046319694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.HEY0LczgS0mU"
+1534046332831	Marionette	INFO	Listening on port 53918
+1534046333190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 69: unreachable code after return statement
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534097505584	geckodriver	INFO	geckodriver 0.20.1
+1534097505662	geckodriver	INFO	Listening on 127.0.0.1:50345
+1534097508637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.3nV7clNlItJq"
+1534097522438	Marionette	INFO	Listening on port 50353
+1534097524051	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/content.js, line 670: TypeError: docShell.failedChannel is null
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://browser/content/content.js, line 670: TypeError: docShell.failedChannel is null
+JavaScript error: chrome://browser/content/content.js, line 670: TypeError: docShell.failedChannel is null
+JavaScript error: chrome://browser/content/content.js, line 670: TypeError: docShell.failedChannel is null
+[Parent 5512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Killing GPU process due to IPC reply timeout
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x420012,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x29002B,name=PCompositorBridge::Msg_ForcePresent) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0017,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7D0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0017,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7D0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0017,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7D0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7D0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+try from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534098733894	geckodriver	INFO	geckodriver 0.20.1
+1534098733926	geckodriver	INFO	Listening on 127.0.0.1:51206
+1534098736958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.Vu3Fb8xgbYvh"
+1534098747863	Marionette	INFO	Listening on port 51214
+1534098747895	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\opeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\opeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534099919297	Marionette	INFO	Listening on port 51566
+1534099919713	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rogram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.WaU7MRFcF9uL"
+1534100042013	Marionette	INFO	Listening on port 51662
+1534100042605	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\opeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channeUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openUnable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534107883547	geckodriver	INFO	geckodriver 0.20.1
+1534107883578	geckodriver	INFO	Listening on 127.0.0.1:52480
+1534107886595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Eugene\\AppData\\Local\\Temp\\rust_mozprofile.tzl1tHjIAeDY"
+1534107895590	Marionette	INFO	Listening on port 52488
+1534107897048	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Eugene\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

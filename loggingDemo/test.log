@@ -1,0 +1,5 @@
+08/12/2018 05:49:34 PM - LoggerDemoConf - DEBUG - debug 1 message
+08/12/2018 05:49:34 PM - LoggerDemoConf - INFO - info 0 message
+08/12/2018 05:49:34 PM - LoggerDemoConf - WARNING - warn 3 message
+08/12/2018 05:49:34 PM - LoggerDemoConf - ERROR - error 4 message
+08/12/2018 05:49:34 PM - LoggerDemoConf - CRITICAL - critical ! message

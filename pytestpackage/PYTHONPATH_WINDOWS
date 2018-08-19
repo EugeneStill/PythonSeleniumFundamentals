@@ -1,0 +1,25 @@
+In PyCharm I avoided issues with PYTHONPATH by setting the sources root folder.
+Right-click on project->Mark Directory As->Sources Root
+This makes the project folder the root folder for the project
+
+"export PYTHONPATH=$PYTHONPATH:."
+
+This command is only needed for Mac system.
+
+If you are working on Windows, you can use this command:
+
+    set PYTHONPATH=%PYTHONPATH%;C:\Complete path of the directory from where you are running the code
+
+If the above does not work, please try these also:
+set PYTHONPATH=%PYTHONPATH%:.
+set PYTHONPATH=../
+
+Alternatively, you can do this:
+
+You can add the directory where your project is located to the Windows PATH environment variable.
+
+You can follow the steps shown in lecture "Selenium WebDriver 3.x Gecko Driver Setup - Windows"
+to see how we add a new path to PATH environment variable.
+
+You can also follow this article for more understanding:
+https://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-7
